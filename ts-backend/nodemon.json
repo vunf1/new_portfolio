@@ -1,0 +1,7 @@
+{
+  "watch": ["src", "routes", "middleware", "controllers"], 
+  "ext": "ts,js,json", 
+  "ignore": ["node_modules", "dist"], 
+  "exec": "ts-node ./src/index.ts"
+  }
+  
